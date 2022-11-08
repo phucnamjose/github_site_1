@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/phucnamauto/2f5e9c77-588f-434b-be70-03623a783026/39b6bde1-ecb5-4b38-8b00-6c62f6f7aa77/_apis/work/boardbadge/58423d00-8ae9-4a88-a628-b32fef63a329)](https://dev.azure.com/phucnamauto/2f5e9c77-588f-434b-be70-03623a783026/_boards/board/t/39b6bde1-ecb5-4b38-8b00-6c62f6f7aa77/Microsoft.RequirementCategory)
 <!--
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
